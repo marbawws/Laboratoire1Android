@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Laboratory1-RezguiMarwane</string>
+    <string name="buttonValiderMotDePasse">VALIDATE PASSWORD</string>
+    <string name="checkBoxAfficherMotDePasse">Show password</string>
+    <string name="editTextTextEmailAddress">Your email</string>
+    <string name="editTextTextPassword">Your password</string>
+</resources>
